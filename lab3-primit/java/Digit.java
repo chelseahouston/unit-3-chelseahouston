@@ -32,14 +32,13 @@ public class Digit
     public static void main(String[] args)
     {
         int n = getInteger();
-        if ( ?????????????????????? ) // TODO
-        {
+    
+        if (((1 - n) * (n) == 0 )) {
             System.out.println("A");
         }
-        else
-        {
+        else{
             System.out.println("B");
         }
-
     }
 }
+
